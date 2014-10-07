@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[crypto ke]]></title>
-  <link href="cryptoke.github.io/atom.xml" rel="self"/>
-  <link href="cryptoke.github.io/"/>
-  <updated>2014-10-07T11:43:51+03:00</updated>
-  <id>cryptoke.github.io/</id>
+  <link href="http://cryptoke.github.io/atom.xml" rel="self"/>
+  <link href="http://cryptoke.github.io/"/>
+  <updated>2014-10-07T11:52:32+03:00</updated>
+  <id>http://cryptoke.github.io/</id>
   <author>
     <name><![CDATA[crypto ke]]></name>
     

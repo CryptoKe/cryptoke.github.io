@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: cryptoke.github.io/sitemap.xml 
+Sitemap: http://cryptoke.github.io/sitemap.xml 
