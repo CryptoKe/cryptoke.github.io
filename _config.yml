@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.cke.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: cryptoke.github.io
+title: crypto ke
+subtitle: information security
+author: crypto ke
 simple_search: https://www.google.com/search
 description:
 
@@ -99,3 +99,12 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+navigation:
+- text: home
+  url: /index.html
+- text: security testing
+- text: training
+- text: research
+- text: about
+- text: contacts
