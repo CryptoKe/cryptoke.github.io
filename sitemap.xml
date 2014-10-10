@@ -4,17 +4,52 @@
   
   
   <url>
+    <loc>http://cryptoke.github.io/about.html</loc>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://cryptoke.github.io/contacts.html</loc>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://cryptoke.github.io/blog/archives/</loc>
-    <lastmod>2014-10-07T11:52:32+03:00</lastmod>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cryptoke.github.io/</loc>
-    <lastmod>2014-10-07T11:52:32+03:00</lastmod>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cryptoke.github.io/research.html</loc>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://cryptoke.github.io/testing.html</loc>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://cryptoke.github.io/training.html</loc>
+    <lastmod>2014-10-10T18:10:46+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   
