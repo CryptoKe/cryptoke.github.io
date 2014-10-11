@@ -1,22 +1,19 @@
 ---
 layout: page
-title: "crypto ke"
+title: ""
 date: 2014-10-11 15:59
 comments: false
 sharing: true
 footer: true
 ---
-{% img center /images/logo.png %}
+{% img /images/logo.png %}
+***
 
-### We are an information security firm offering the following services:  
-+ application testing
-+ network testing
-+ hardware testing
-+ security awareness and training
-+ security research
+# We are an information security firm offering services in information security testing, training and research.  
+***
 
-
-
+# Keeping your information secure from unauthorized access is our driving principle.
+***
 
 
 
