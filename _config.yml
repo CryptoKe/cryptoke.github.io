@@ -105,11 +105,10 @@ navigation:
   url: /crypto-ke.html
 - text: security testing
   url: /security-testing.html
-- text: training
-  url: /training.html
+- text: awareness and training
+  url: /security-awareness-and-training.html
 - text: research
   url: /research.html
 - text: about
   url: /about.html
-- text: contacts
-  url: /contacts.html
+
