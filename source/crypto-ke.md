@@ -6,4 +6,4 @@ comments: false
 sharing: true
 footer: true
 ---
-{% img /images/logo.png 350 350 %}
+{% img /images/DSCN1508.JPG 300 300 %}
