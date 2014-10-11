@@ -102,9 +102,9 @@ facebook_like: false
 
 navigation:
 - text: home
-  url: /index.html
+  url: /crypto-ke.html
 - text: security testing
-  url: /testing.html
+  url: /security-testing.html
 - text: training
   url: /training.html
 - text: research
