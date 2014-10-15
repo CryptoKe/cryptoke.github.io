@@ -9,8 +9,10 @@ footer: true
 {% img /images/logo.png %}
 ***
 
-### We are an information security firm offering services in information security testing, training and research.  
+> #### We are an information security firm offering services in information security testing, training and research.  
 ***
 
-### Keeping your information secure from unauthorized access is our driving principle.
+> #### Keeping your information secure from unauthorized access is our driving principle.
+
+
 ***

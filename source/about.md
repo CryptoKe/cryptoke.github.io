@@ -10,10 +10,14 @@ footer: true
 # location
 
 
-Our offices are at Westlands Commercial Center.
+> #### Our offices are at Westlands Commercial Center.
+
+
 ***
 # contacts
 
 
-Reach us on email at info@cke.io
+> #### Reach us on email at info@cke.io
+
+
 ***
